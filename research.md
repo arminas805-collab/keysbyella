@@ -35,3 +35,9 @@ Source: vidIQ outlier search (IG + TikTok), 3 queries. Credits left: ~81.
 2. Jingle Bells and Silent Night falling-note tutorials (public domain).
 3. Ball-drop v2 with "wait for it..." hook and a loop.
 4. A/B: same video with 2 different hooks a week apart.
+
+## Content mix update (2026-11-23, from Arminas)
+- Not only classical. Add trendy pop song covers (chords and melody, our own piano rendition) and jazz standards.
+- Formats: "4 chords = 100 songs" (axis progression C G Am F), jazz ii-V-I (Autumn Leaves chords), falling-note melody tutorials, satisfying 3D.
+- Next: Fly Me to the Moon chords, All of Me, blues in C, pop progressions (vi-IV-I-V), trending song hooks once sounds are checked with vidiq_tiktok_trending_sound_search.
+- Mix per week target: 40% chord/pop tutorials, 25% Christmas (until Dec 25), 20% jazz, 15% satisfying/3D or classical.
