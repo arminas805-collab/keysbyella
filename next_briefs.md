@@ -38,3 +38,5 @@ Basis: Für Elise falling-note tutorial is the best reel so far (2221 views, 17 
 - Hook: "wait for it..." (replace current weak hook; first one got 508 views, 37.6% skip)
 - Hashtags: #oddlysatisfying #satisfying #pianotok #piano
 - Slot: C (00:07 UTC)
+
+> Sound note (2026-11-24): render every brief above with a real sampled grand piano, warmer and lower register, light reverb, no harsh highs. See research.md "Production rule: piano sound".

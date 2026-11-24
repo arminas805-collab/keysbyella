@@ -41,3 +41,10 @@ Source: vidIQ outlier search (IG + TikTok), 3 queries. Credits left: ~81.
 - Formats: "4 chords = 100 songs" (axis progression C G Am F), jazz ii-V-I (Autumn Leaves chords), falling-note melody tutorials, satisfying 3D.
 - Next: Fly Me to the Moon chords, All of Me, blues in C, pop progressions (vi-IV-I-V), trending song hooks once sounds are checked with vidiq_tiktok_trending_sound_search.
 - Mix per week target: 40% chord/pop tutorials, 25% Christmas (until Dec 25), 20% jazz, 15% satisfying/3D or classical.
+
+## Production rule: piano sound (2026-11-24, from Arminas, standing)
+- Current renders sound too high-pitched and thin/annoying. Use a more authentic, warmer acoustic grand piano sound for all future renders.
+- Use a real sampled piano soundfont/instrument (e.g. a Salamander Grand or similar sampled grand), not a synth or basic GM piano.
+- Play melodies in a lower, warmer register: transpose melodies down 1-2 octaves where the tune sits above C6; keep left hand in the bass/tenor range.
+- Add light room reverb, gentle velocity variation and slight timing humanisation; normalise loudness (about -14 LUFS) and roll off harsh highs (low-pass around 8-10 kHz or gentle high-shelf cut).
+- Check each render by listening/spectrum before posting; reject if it sounds bright, plinky or metallic.
