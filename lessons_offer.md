@@ -8,11 +8,11 @@ Channel: DMs only. No website, no booking site, no comment-keyword CTAs.
 - Hours: US mornings and weekends, Europe evenings.
 
 ## Bio (Instagram and TikTok)
-pianist · B.Mus. Piano Performance, Lithuanian Academy of Music and Theatre 🎹 real teacher behind this page. 1-on-1 lessons: dm me
+pianist · B.Mus. Piano Performance, Lithuanian Academy of Music and Theatre 🎹 real teacher behind this page. 1-on-1 lessons: dm me or @armis.klavishai
 
 ## Caption endings (one per post, rotate)
 - real pianist behind this page. dm me for lessons.
-- i teach 1-on-1 live. dm "lessons".
+- i teach 1-on-1 live. dm "lessons" or find me at @armis.klavishai
 - piano performance degree, 5 yrs teaching. real lessons, dm me.
 
 ## Profile line
@@ -37,3 +37,6 @@ yes, the tutorials are made with software. the teacher is real.
 - Autumn Leaves: first 4 chords of autumn leaves. jazz sounds so good with just these 🍂 save it #jazzpiano #autumnleaves #pianochords #learnpiano #pianotok
 - Jingle Bells: easiest christmas song ever 🎄 learn it tonight. real pianist, dm me for lessons #jinglebells #christmaspiano #easypiano #pianotutorial #pianotok
 - Ball-drop: oddly satisfying piano: ode to joy, one ball at a time. wait for it... #oddlysatisfying #satisfying #pianotok #piano #fyp
+
+## Main account
+@armis.klavishai (Arminas Suchovas, ~3.5K followers, Lithuanian privates). Link it in the bio and in some caption endings. Keys by Ella stays English-only.
