@@ -8,18 +8,18 @@ Channel: DMs only. No website, no booking site, no comment-keyword CTAs.
 - Hours: US mornings and weekends, Europe evenings.
 
 ## Bio (Instagram and TikTok)
-pianist · B.Mus. Piano Performance, Lithuanian Academy of Music and Theatre 🎹 real teacher behind this page. 1-on-1 lessons: dm me or @armis.klavishai
+pianist · B.Mus. Piano Performance, Lithuanian Academy of Music and Theatre 🎹 real teacher behind this page. 1-on-1 lessons: dm me
 
 ## Caption endings (one per post, rotate)
 - real pianist behind this page. dm me for lessons.
-- i teach 1-on-1 live. dm "lessons" or find me at @armis.klavishai
+- i teach 1-on-1 live. dm "lessons"
 - piano performance degree, 5 yrs teaching. real lessons, dm me.
 
 ## Profile line
 yes, the tutorials are made with software. the teacher is real.
 
 ## DM replies (Instagram saved replies; instant reply in Meta Business Suite)
-- Instant: hey, thanks for the message 🎹 i'm a real pianist and teacher (B.Mus. Piano Performance, 5 yrs teaching). trial lesson $60, then $80/hour, 1-on-1 online. reply with your level (beginner / some experience / advanced) and your time zone and i'll get back to you.
+- Instant: hey, thanks for the message 🎹 i'm a real pianist and teacher (B.Mus. Piano Performance, 5 yrs teaching). trial lesson $60, then $80/hour, 1-on-1 online. reply with your level (beginner / some experience / advanced) and your time zone and i'll get back to you. you can also find me at @armis.klavishai
 - Price: trial lesson is $60, then $80/hour. 1-on-1, online (Zoom). want to book a trial?
 - Level: no problem if you're a complete beginner. you need a piano or keyboard at home, and i'll show you from there.
 - Times: i teach US mornings/weekends and Europe evenings. what time zone are you in?
@@ -39,4 +39,4 @@ yes, the tutorials are made with software. the teacher is real.
 - Ball-drop: oddly satisfying piano: ode to joy, one ball at a time. wait for it... #oddlysatisfying #satisfying #pianotok #piano #fyp
 
 ## Main account
-@armis.klavishai (Arminas Suchovas, ~3.5K followers, Lithuanian privates). Link it in the bio and in some caption endings. Keys by Ella stays English-only.
+@armis.klavishai (Arminas Suchovas, ~3.5K followers, Lithuanian privates). Mention it only in DM replies, not in captions or bios. Keys by Ella stays English-only.
