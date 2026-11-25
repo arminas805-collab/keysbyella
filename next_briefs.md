@@ -40,3 +40,36 @@ Basis: Für Elise falling-note tutorial is the best reel so far (2221 views, 17 
 - Slot: C (00:07 UTC)
 
 > Sound note (2026-11-24): render every brief above with a real sampled grand piano, warmer and lower register, light reverb, no harsh highs. See research.md "Production rule: piano sound".
+
+## 2026-11-25
+Basis: tutorials (falling-note, chord, jazz) beat explainers on saves+shares/view (1.7-2.7% vs 0.2-0.9%) and views (1.0-2.3K vs 0.2-2.0K). Für Elise falling-note is still #1 (2,288 views, 1.67x median, no 2x winner yet). Outlier search: "4 songs you can learn as a beginner" montage 73K (18x median, 30K account), falling-note Christmas 1.3M-3.2M, "learn in seconds" style text hooks. Same formats, new songs below (all public domain tunes/progressions).
+
+### Brief 6: We Wish You a Merry Christmas falling-note (PD)
+- Format: falling-note tutorial, right-hand melody only, slow phrase then sped-up full, ~20s, loops
+- Hook (yellow, frame 0): "learn this in 30 seconds"
+- Caption: "the easiest christmas song after jingle bells. save it and play it tonight 🎄"
+- Hashtags: #christmaspiano #pianotutorial #easypiano #pianotok #piano
+- Slot: A (10:07 UTC)
+
+### Brief 7: "4 songs you can learn this week" beginner montage
+- Format: 4 quick falling-note clips (Ode to Joy, Jingle Bells, Silent Night, Für Elise intro), each with static title + difficulty (easy/easy/medium/medium), ~25s, no talking
+- Hook: "4 songs you can learn this week"
+- Caption: "which one are you learning first? comment a number. save for later 🎹"
+- Hashtags: #pianotutorial #learnpiano #easypiano #pianotok #piano
+- Slot: B (17:07 UTC)
+
+### Brief 8: Canon in D progression chord tutorial (PD, Pachelbel)
+- Format: top-down chord tutorial, key of C: C G Am Em F C F G, block chords then simple arpeggio, ~30s, chord names small text
+- Hook: "these 8 chords are in 100 songs"
+- Caption: "the pachelbel chords behind half of pop. save this and try it 🎹"
+- Hashtags: #pianochords #chordprogression #learnpiano #pianotutorial #canonind
+- Slot: C (00:07 UTC)
+
+### Brief 9: Moonlight Sonata (1st mvt) falling-note, simplified (PD, Beethoven)
+- Format: falling-note, triplet arpeggio left hand simplified, slow warm sound (see sound rule), ~25s, loops
+- Hook: "the saddest song ever written. you can play it"
+- Caption: "beethoven made this in 1801 and you can play the start today. save it"
+- Hashtags: #moonlightsonata #pianotutorial #beethoven #learnpiano #pianotok
+- Slot: A (10:07 UTC)
+
+> Note: pop covers (Steve Lacy, Arctic Monkeys etc. get 55-280K via falling-note) use copyrighted compositions; only do own-rendition melody/chords, check sound first. Not briefed yet.
