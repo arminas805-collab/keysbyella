@@ -73,3 +73,34 @@ Basis: tutorials (falling-note, chord, jazz) beat explainers on saves+shares/vie
 - Slot: A (10:07 UTC)
 
 > Note: pop covers (Steve Lacy, Arctic Monkeys etc. get 55-280K via falling-note) use copyrighted compositions; only do own-rendition melody/chords, check sound first. Not briefed yet.
+
+## 2026-11-26
+Basis: tutorials keep winning (Für Elise falling-note 2,300 views = 1.93x median 1,194, saves+shares 2.7%; Autumn Leaves jazz 2.3%; 4 chords 1.7%). Explainers stopped (decision 2026-11-25). Outlier search (5 credits, balance 46 -> 41): @neonmathia Gymnopédie No.3 falling-note 237K views (140x median) at 276 followers, hook = song title + year as plain text, colour-coded hands; @agiandthekeys Carol of the Bells step-by-step 88K; @perfectpianoreels "Jingle Bells Part 1" 77K (numbered "part 1" series). All public domain, same formats as ours.
+
+### Brief 10: Gymnopédie No.1 falling-note, colour-coded hands (PD, Satie 1888)
+- Format: top-down falling notes, blue = right hand, green = left hand, slow warm sampled grand, first 16 bars, ~30s, loops
+- Hook (yellow, frame 0): "gymnopédie no.1 (1888). learn it note by note"
+- Caption: "save it to learn it. blue = right hand, green = left hand 🎹"
+- Hashtags: #gymnopedie #erikSatie #pianotutorial #learnpiano #pianotok
+- Slot: B (17:07 UTC)
+
+### Brief 11: Für Elise part 2 (follow-up to our #1 reel; PD, Beethoven)
+- Format: same template as the Für Elise reel, bars 23-38 (the "B section" that most people skip), numbered "part 2" in hook
+- Hook: "für elise part 2. the part nobody learns"
+- Caption: "you asked for part 2 (ok nobody did). save it and play it tonight"
+- Hashtags: #furelise #pianotutorial #beethoven #learnpiano #pianotok
+- Slot: A (10:07 UTC)
+
+### Brief 12: Jingle Bells "part 2" + "part 1" recap (PD)
+- Format: falling-note, chorus second half with left-hand root notes added, ~25s; numbered series ("part 2")
+- Hook: "jingle bells part 2. now add your left hand"
+- Caption: "part 2 of the easiest christmas song. save it 🎄"
+- Hashtags: #jinglebells #christmaspiano #pianotutorial #easypiano #pianotok
+- Slot: C (00:07 UTC)
+
+### Brief 13: "I-vi-IV-V" 50s progression chord tutorial (generic progression)
+- Format: top-down block chords in C: C Am F G, then right-hand broken-chord pattern, chord names small text, ~30s
+- Hook: "the 4 chords of every 50s love song"
+- Caption: "c am f g. save this and play it with a friend 🎹"
+- Hashtags: #pianochords #chordprogression #learnpiano #pianotutorial #pianotok
+- Slot: B (17:07 UTC)

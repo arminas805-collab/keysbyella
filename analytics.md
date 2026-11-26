@@ -32,3 +32,18 @@ Research: no new Reels algorithm announcement found (only "Your Algorithm" feed 
 Schedule change: none (not enough data).
 
 Next 24h: (1) 4-songs-this-week montage, slot B; (2) We Wish You a Merry Christmas falling-note, slot A; (3) Canon in D chord tutorial, slot C. Briefs 6-9 in next_briefs.md.
+
+## 2026-11-26
+Data: 14 reels, 30 followers (+1), 30d views 14,762, reach 11,149. Median reel 1,194, winner bar 2,388: no winner (Für Elise 2,300 = 1.93x).
+
+Best: Für Elise falling-note 2,300 views, 18 shares, 44 saves; 88 keys 2,061; lowest/highest note 1,603 (B). Autumn Leaves chords 1,373 (B) had 26 saves, 56 likes. Worst: grand vs upright 195, black keys 237 (A, 67% skip), three pedals 297 (A, 74% skip), one key one hammer 344. Young: Canon in D 656 (00:09 today), Merry Christmas 364 (7h).
+
+Slots (UTC): A 10:07 median 297 (n=3); B 17:07 1,373 (n=3); C 00:07 656 (n=3, 2 young). Fewer than 4 per slot over under 10 days: not enough data. B looks best, A weakest, but A's dud reels were explainers.
+
+Types (views | saves+shares per view): falling-note 2,300 | 2.7%; jazz 1,373 | 2.3%; chord 1,574/656 | 1.7%/0.8% (young); Christmas 1,045/364 | 1.1%/3.0% (young); satisfying 1,343 | 0.45%; explainers 195-2,061 | 0.2-3.2%. Explainers now retired.
+
+Research: no new Reels algorithm announcement found; only Reels feed personalization controls and April originality rules. Outlier search (5 credits, balance 41 left): public-domain falling-note tutorials at 55-238K for 276-19K-follower accounts; title+year text hook, colour-coded hands, numbered "part 1/2" series.
+
+Schedule change: none (not enough data).
+
+Next 24h: (1) Gymnopédie No.1 falling-note, B; (2) Für Elise part 2, A; (3) Jingle Bells part 2, C. Briefs 10-13 in next_briefs.md.
