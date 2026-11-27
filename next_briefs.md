@@ -104,3 +104,34 @@ Basis: tutorials keep winning (Für Elise falling-note 2,300 views = 1.93x media
 - Caption: "c am f g. save this and play it with a friend 🎹"
 - Hashtags: #pianochords #chordprogression #learnpiano #pianotutorial #pianotok
 - Slot: B (17:07 UTC)
+
+## 2026-11-27
+Basis: chord tutorials are the most consistent type (Canon in D 1,843 = best automated reel, 2.0% saves+shares/view; 4 chords 1,583; sad pop 1,275). Christmas falling-note: We Wish You a Merry Christmas 1,326 views and 3.0% saves+shares (20 shares), but Silent Night in slot A flopped (265). Outlier search (5 credits, balance 41 -> 36): @realpianicam "impress everyone on christmas" 3.3M (131x median) and @fallingnoteapp "6 weeks to learn this" 793K = falling-note + countdown/impress hook, sound from frame 0. Avoid copyrighted songs (All I Want For Christmas, Snowman, Sign of the Times). Christmas window closes Dec 25: front-load.
+
+### Brief 14: Canon in D part 2, melody on top of the chords (PD, Pachelbel)
+- Format: chord template of our Canon reel (1,843 views) + falling-note right-hand melody (the famous descending line), colour-coded hands, ~30s, numbered series
+- Hook (yellow, frame 0): "canon in d part 2. now add the melody"
+- Caption: "you know the chords from part 1. now the melody on top. save it 🎹"
+- Hashtags: #canonind #pachelbel #pianotutorial #learnpiano #pianotok
+- Slot: B (17:07 UTC)
+
+### Brief 15: Deck the Halls falling-note with countdown hook (PD, Welsh melody)
+- Format: falling-note, right hand only, slow then full speed, ~25s, sound from frame 0
+- Hook: "4 weeks until christmas. learn this"
+- Caption: "4 weeks is plenty. save it and play it every night 🎄"
+- Hashtags: #deckthehalls #christmaspiano #pianotutorial #easypiano #pianotok
+- Slot: B (17:07 UTC)
+
+### Brief 16: Jingle Bells but jazz, 4 chords (PD melody, generic ii-V-I)
+- Format: jazz chord tutorial (Autumn Leaves template, 2.2% saves+shares): Dm7 G7 Cmaj7 A7 under the Jingle Bells chorus melody, top-down block chords, chord names small, ~30s
+- Hook: "jingle bells but make it jazz"
+- Caption: "same song, 4 jazzy chords. save it for christmas eve 🎷"
+- Hashtags: #jazzpiano #jinglebells #christmaspiano #pianochords #pianotok
+- Slot: C (00:07 UTC)
+
+### Brief 17: Silent Night re-test in a stronger slot with a stronger hook (PD, Gruber 1818)
+- Format: same falling-note render as file 26, new first frame: notes falling + sound from 0.0s, no intro
+- Hook: "impress everyone on christmas. silent night"
+- Caption: "the most beautiful christmas song and it is easy. save it 🎄"
+- Hashtags: #silentnight #christmaspiano #pianotutorial #learnpiano #pianotok
+- Slot: B (17:07 UTC), never slot A

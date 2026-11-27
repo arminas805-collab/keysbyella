@@ -47,3 +47,18 @@ Research: no new Reels algorithm announcement found; only Reels feed personaliza
 Schedule change: none (not enough data).
 
 Next 24h: (1) Gymnopédie No.1 falling-note, B; (2) Für Elise part 2, A; (3) Jingle Bells part 2, C. Briefs 10-13 in next_briefs.md.
+
+## 2026-11-27
+Data: 17 reels, 36 followers (+6), 30d views 19,775, reach 14,814. Median reel 1,326, winner bar 2,652: no winner (Für Elise 2,322 = 1.75x).
+
+Best: Für Elise 2,322 (44 saves, 19 shares); 88 keys 2,063; Canon in D chords 1,843 (A+ saves/shares 2.0%, best automated reel). Worst: grand vs upright 200, find C 242 (A), Silent Night 265 (A, 69% skip, 1 save).
+
+Slots (UTC, automated reels from 11-23, 4 days): A 10:07 median 290 (n=4: 1,583 / 242 / 315 / 265); B 17:07 1,354 (n=4); C 00:07 1,297 (n=4, 1 young). A is 21% of B, but under 10 days: no change yet. Re-check 2026-12-03; if A is still under 60% of B, move A 10:07 -> 12:07 UTC (7am ET).
+
+Types (views | saves+shares/view): chord 1,567 avg | 1.8%; jazz 1,382 | 2.2%; Christmas 971 avg | 1.9% (Merry Xmas 3.0%, Silent Night 0.4%); falling-note Für Elise 2,322 | 2.7%; satisfying 1,353 | 0.4%; explainers median 346 | 0.2-3.2%. Chords most consistent; Christmas mixed, driven by slot.
+
+Research: no new Reels algorithm announcement found (only Reels feed controls, April originality rules). Outlier search (balance 41 -> 36): "impress everyone on christmas" falling-note 3.3M, "6 weeks to learn this" 793K, Carol of the Bells tutorials 69-286K.
+
+Schedule change: none. WARNING: only 6 tutorial files left in queue (28-33), about 2 days; briefs 10-17 still need rendering.
+
+Next 24h: (1) Canon in D part 2, B; (2) Deck the Halls "4 weeks until christmas", B; (3) Jingle Bells jazz, C. Briefs 14-17 in next_briefs.md.
