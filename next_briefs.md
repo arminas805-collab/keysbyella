@@ -135,3 +135,34 @@ Basis: chord tutorials are the most consistent type (Canon in D 1,843 = best aut
 - Caption: "the most beautiful christmas song and it is easy. save it 🎄"
 - Hashtags: #silentnight #christmaspiano #pianotutorial #learnpiano #pianotok
 - Slot: B (17:07 UTC), never slot A
+
+## 2026-11-28
+Basis: 20 reels, median 1,317 views, winner bar 2,633: none (Für Elise 2,324 = 1.8x). Best saves+shares/view: falling-note 2.2% (Merry Xmas 3.0%), jazz 2.0%, chords 1.7% (Canon in D 1,853 = best automated). Slot A is the weak spot (median 317, n=5) but confounded by explainers/Silent Night; briefs 21 tests a proven chord format in A. Outlier search (5 credits, balance 36 -> 31): @realpianicam "impress everyone on christmas" 3.3M (120x, falling-note, sound from frame 0, loop), @ffunk_com daily chord progression "Canon in D" 32K (9.5x, chord name as title, looped). Avoid copyrighted audio (All I Want For Christmas). Queue warning: only files 30, 32, 33 (+20 from 12-01) left, render briefs 14-21 now.
+
+### Brief 18: O Come All Ye Faithful falling-note (PD, Wade 1743)
+- Format: falling-note, right hand only, slow first phrase then full speed, ~25s, loops, sound from frame 0
+- Hook (yellow, frame 0): "impress everyone on christmas"
+- Caption: "the one everybody knows by heart. save it and play it on christmas eve 🎄"
+- Hashtags: #christmaspiano #ocomeallyefaithful #pianotutorial #easypiano #pianotok
+- Slot: B (17:07 UTC)
+
+### Brief 19: Moonlight Sonata, every note and finger (PD, Beethoven)
+- Format: top-down, first 8 bars triplet arpeggio, finger numbers on each note, ~30s
+- Hook: "moonlight sonata. every note, every finger"
+- Caption: "the opening is easier than it sounds. save this and try it tonight 🌙"
+- Hashtags: #moonlightsonata #beethoven #pianotutorial #learnpiano #pianotok
+- Slot: C (00:07 UTC)
+
+### Brief 20: ii-V-I part 2, minor key (generic jazz progression)
+- Format: jazz chord tutorial (ii-V-I template, 2.0% saves+shares): Dm7b5 G7 Cm, top-down block chords, chord names small, ~30s, numbered series
+- Hook: "ii-V-i part 2. the minor one"
+- Caption: "darker, moodier, same 3 chords idea. save it 🍂"
+- Hashtags: #jazzpiano #pianochords #jazz #learnpiano #pianotok
+- Slot: C (00:07 UTC)
+
+### Brief 21: I-V-vi-IV with a left-hand pattern, slot A control test (generic progression)
+- Format: Canon in D chord template (1,853 views): C G Am F, add simple left-hand broken-chord pattern, ~30s
+- Hook: "the 4 chords behind every pop hit. now add this left hand"
+- Caption: "c g am f. same chords, now it sounds like a real song. save it 🎹"
+- Hashtags: #pianochords #chordprogression #learnpiano #pianotutorial #pianotok
+- Slot: A (10:07 UTC), deliberately a proven format to separate slot effect from content effect

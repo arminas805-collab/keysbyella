@@ -62,3 +62,18 @@ Research: no new Reels algorithm announcement found (only Reels feed controls, A
 Schedule change: none. WARNING: only 6 tutorial files left in queue (28-33), about 2 days; briefs 10-17 still need rendering.
 
 Next 24h: (1) Canon in D part 2, B; (2) Deck the Halls "4 weeks until christmas", B; (3) Jingle Bells jazz, C. Briefs 14-17 in next_briefs.md.
+
+## 2026-11-28
+Data: 20 reels, 40 followers (+4), 30d views 22,559, reach 17,130. Median reel 1,317, winner bar 2,633: no winner (Für Elise 2,324 = 1.8x).
+
+Best: Für Elise falling-note 2,324 (44 saves, 19 shares); 88 keys 2,063; Canon in D chords 1,853 (36 saves+shares). Worst: grand vs upright 200, find C 243 (A), Silent Night 286 (A, 67% skip), pedals 317 (A). Young: ii-V-I 775 (00:09, ~5h), Ode to Joy 1,237 (17:10, 12h).
+
+Slots (UTC, automated since 11-23, 6 days): A 10:07 median 317 (n=5: 1,586/243/317/286/661); B 17:07 1,337 (n=5); C 00:07 1,354 (n=5, 1 young). A = 24% of B but only 6 days: no change. Re-check 2026-12-03; if A still under 60% of B, move A 10:07 -> 12:07 UTC.
+
+Types (avg views | saves+shares/view): falling-note melody 1,781 | 2.2%; chord 1,349 | 1.7%; satisfying 1,354 | 0.4%; jazz 1,079 (775 young) | 2.0%; Christmas 1,011 | 1.9% (Merry Xmas 3.0%, Silent Night 0.7% in A); explainers 911 | 0.7%. Skip rate 38-75% everywhere: sound + text must hit at frame 0.
+
+Research: no Reels ranking change found; only Instagram's 90-minute long-form "Features" test (Oct) and Reels feed controls. Outlier search (balance 36 -> 31): "impress everyone on christmas" falling-note 3.3M (120x), daily Canon in D chord loop 32K (9.5x). Playbook unchanged (watch time, sends, likes).
+
+Schedule change: none. WARNING: queue is down to files 30, 32, 33 (+20 from 12-01), about 1 day. Briefs 14-21 need rendering.
+
+Next 24h: (1) O Come All Ye Faithful falling-note, B; (2) Moonlight Sonata every-note-and-finger, C; (3) I-V-vi-IV + left hand, A (slot control). Briefs 18-21 in next_briefs.md.
